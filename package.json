@@ -6,7 +6,7 @@
     "repository": {
       "type": "git"
     },
-    "author": "Ayush",
+    "author": "Abhijit",
     "license": "ISC",
     "scripts": {
       "start": "node src/index.js",
